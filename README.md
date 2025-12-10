@@ -1,6 +1,6 @@
 # CPE-009A-CPE12S1-2526
 
-![Miffy GIF](https://raw.githubusercontent.com/your-username/your-repo/main/assets/miffy.gif)
+[![Miffy GIF](assets/miffy.gif)](https://www.pinterest.com/pin/_01--104638391335091787/)
 
 # 💫 About Me:
 Hi! I am Eunice E. Moradillo, a Computer Engineering student at Technological Institute of the Philippines. who loves building projects, learning new technologies, and solving real-world problems. I am currently studying with C++ and  Python. Welcome to my GitHub and feel free to explore my work!
