@@ -4,7 +4,7 @@ Hi! I am Eunice E. Moradillo, a Computer Engineering student at Technological In
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/eunice moradillo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:qemoradillo@tip.edu.ph) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:qemoradillo@tip.edu.ph) 
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
