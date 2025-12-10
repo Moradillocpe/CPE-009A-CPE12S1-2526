@@ -1,6 +1,19 @@
 # CPE-009A-CPE12S1-2526
 
-[![Miffy GIF](assets/miffy.gif)](https://www.pinterest.com/pin/_01--104638391335091787/)
+  <p align="center">
+  <br>
+  <samp>
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Eunice E. Moradillo</a></b>.
+    <br>I'm a Computer Engineering student from Technological Institute of the Philippines.<br>
+</samp>
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200">
+</p>
+<details align="center" open="">
+<summary> <b> <samp> Light bonfire </samp></b></summary>
+<samp>
+ <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200">
+</samp></details>
 
 # 💫 About Me:
 Hi! I am Eunice E. Moradillo, a Computer Engineering student at Technological Institute of the Philippines. who loves building projects, learning new technologies, and solving real-world problems. I am currently studying with C++ and  Python. Welcome to my GitHub and feel free to explore my work!
