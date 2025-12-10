@@ -18,6 +18,15 @@
 # 💫 About Me:
 Hi! I am Eunice E. Moradillo, a Computer Engineering student at Technological Institute of the Philippines. who loves building projects, learning new technologies, and solving real-world problems. I am currently studying with C++ and  Python. Welcome to my GitHub and feel free to explore my work!
 
+<h3 id="-quick-facts">✨ Quick Facts</h3>
+<ul>
+<li>👨🏽‍💻 A Computer Engineering Student.</li>
+<li>🌱 I’m currently learning C++ and Python.</li>
+</ul>
+<!--- ⚡️ Fun-Fact: I sleep at 12am to wake up at 3am 🙃. -->
+<ul>
+<li>🎿 Hobbies other than coding : Playing online games, eating, reading and art stuff.</li>
+</ul>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:qemoradillo@tip.edu.ph) 
