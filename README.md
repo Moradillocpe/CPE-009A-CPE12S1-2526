@@ -41,37 +41,4 @@ Hi! I am Eunice E. Moradillo, a Computer Engineering student at Technological In
 ---
 [![](https://visitcount.itsvg.in/api?id=Moradillocpe&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- COOL INTRO GIF OR IMAGE -->
-<p align="center">
-  <img src="INTRO_GIF_OR_IMAGE_URL" alt="Intro" width="400" />
-</p>
-
-
-## 🎧 Currently vibing to
-
-<!-- Spotify (needs your Spotify user ID) -->
-<p align="center">
-  <img
-    src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&show_offline=false&background_color=121212"
-    alt="Spotify Now Playing"
-  />
-</p>
-
----
-
-## 📈 Profile views
-
-<p align="center">
-  <img
-    src="https://shields-io-visitor-counter.herokuapp.com/badge?page=YOUR_USERNAME.YOUR_USERNAME&label=Profile%20Views&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge"
-  />
-</p>
-
----
-
-## 🌟 Pinned projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_1&theme=radical)](https://github.com/YOUR_USERNAME/REPO_NAME_1)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_2&theme=radical)](https://github.com/YOUR_USERNAME/REPO_NAME_2)
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
